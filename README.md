@@ -10,4 +10,10 @@ These notes were written mainly while following the courses and have not been th
 
 If you would like to use some material as a starting point for your own notes, feel free to do so. I would just appreciate it if you cited this repository in your work.
 
-Good luck with PoD!
+Please note that I developed and refined my LaTeX template over the years. As a result, the source files of the oldest notes can be quite messy, since at the time I was not particularly concerned with keeping everything well organized and did not expect these notes to eventually become part of a larger collection.
+
+I decided to upload the ZIP files anyway for the sake of completeness.
+
+Please forgive me father for I have sinned.
+
+By the way, Good luck with PoD!
