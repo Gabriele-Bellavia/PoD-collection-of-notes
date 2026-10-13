@@ -1,6 +1,6 @@
 # Machine Learning for Human Data - WORK IN PROGRESS
 
-These notes come from the course Machine Learning for Human Data and are still work in progress.
+These notes come from the course Machine Learning for Human Data and are still work in progress (if you want to help, contact me).
 
 The lectures were given by Prof. M. Rossi during the 2026–2027 academic year.
 
